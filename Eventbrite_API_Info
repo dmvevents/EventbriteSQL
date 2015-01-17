@@ -1,0 +1,7 @@
+Event Brite API Grabber
+
+The goal of this PHP is to grap all information from eventbrite and dumb it into a sql data base.
+
+The user gives there API key and the app connects to the server and downloads the desired information
+
+The infomration 
